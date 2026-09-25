@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer with 3+ years of experience** building
+I'm a **Full Stack Developer with 1+ years of experience** building
 responsive, scalable, and user-focused web applications.
 
 My primary development experience includes **React, Angular, Next.js,
